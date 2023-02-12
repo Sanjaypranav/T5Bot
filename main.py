@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from readtextfile import read_even_lines, read_odd_lines 
 from simplet5 import SimpleT5
-from sklearn.model_selection import train_test_split
 
 
 conversation = pd.DataFrame(
